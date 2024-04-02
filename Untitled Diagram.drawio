@@ -1,12 +1,162 @@
-<mxfile host="app.diagrams.net" modified="2024-04-02T08:17:18.806Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="2CMsyy9tc5hcnyFYuaTh" version="24.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-02T12:11:16.542Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="cDEBKUzxo1_BTjYyWjdH" version="24.2.1" type="github">
   <diagram name="Page-1" id="CdamL6_mtSKDQ_Ty3OGJ">
     <mxGraphModel dx="1647" dy="877" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="5ZZzninA21lW4IOuCeZm-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="90" width="270" height="190" as="geometry" />
+        <mxCell id="5ZZzninA21lW4IOuCeZm-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5ZZzninA21lW4IOuCeZm-1" target="5ZZzninA21lW4IOuCeZm-37">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="5ZZzninA21lW4IOuCeZm-1" value="ToR development" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="62" width="180" height="30" as="geometry" />
+        </mxCell>
+        <UserObject label="Sampling tool" link="https://impact-initiatives.shinyapps.io/r_sampling_tool_v2/" id="5ZZzninA21lW4IOuCeZm-2">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+            <mxGeometry x="410" y="92" width="180" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="5ZZzninA21lW4IOuCeZm-3" value="Data/GIS tool" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#99CCFF;" vertex="1" parent="1">
+          <mxGeometry x="10" y="90" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5ZZzninA21lW4IOuCeZm-4" value="Data tool" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="10" y="10" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5ZZzninA21lW4IOuCeZm-5" value="GIS tool" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="10" y="50" width="110" height="30" as="geometry" />
+        </mxCell>
+        <UserObject label="Interview allocation tool" id="5ZZzninA21lW4IOuCeZm-6">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#99CCFF;" vertex="1" parent="1">
+            <mxGeometry x="410" y="150" width="180" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="5ZZzninA21lW4IOuCeZm-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5ZZzninA21lW4IOuCeZm-10" target="5ZZzninA21lW4IOuCeZm-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5ZZzninA21lW4IOuCeZm-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="5ZZzninA21lW4IOuCeZm-10" target="5ZZzninA21lW4IOuCeZm-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5ZZzninA21lW4IOuCeZm-10" value="DAP development" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="200" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5ZZzninA21lW4IOuCeZm-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5ZZzninA21lW4IOuCeZm-12" target="5ZZzninA21lW4IOuCeZm-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5ZZzninA21lW4IOuCeZm-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5ZZzninA21lW4IOuCeZm-12" target="5ZZzninA21lW4IOuCeZm-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5ZZzninA21lW4IOuCeZm-12" value="Kobo development" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="260" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5ZZzninA21lW4IOuCeZm-13" value="DAP to Kobo transformer" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="410" y="200" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5ZZzninA21lW4IOuCeZm-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5ZZzninA21lW4IOuCeZm-19" target="5ZZzninA21lW4IOuCeZm-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5ZZzninA21lW4IOuCeZm-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5ZZzninA21lW4IOuCeZm-19" target="5ZZzninA21lW4IOuCeZm-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5ZZzninA21lW4IOuCeZm-19" value="Data collection" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="320" width="180" height="30" as="geometry" />
+        </mxCell>
+        <UserObject label="Kobo checker" link="https://impact-initiatives.shinyapps.io/Kobo_checker/" id="5ZZzninA21lW4IOuCeZm-20">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+            <mxGeometry x="410" y="260" width="180" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="5ZZzninA21lW4IOuCeZm-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="5ZZzninA21lW4IOuCeZm-23" target="5ZZzninA21lW4IOuCeZm-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5ZZzninA21lW4IOuCeZm-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="5ZZzninA21lW4IOuCeZm-23" target="5ZZzninA21lW4IOuCeZm-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5ZZzninA21lW4IOuCeZm-23" value="Data cleaning" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="400" width="180" height="30" as="geometry" />
+        </mxCell>
+        <UserObject label="Cleaning template" link="https://github.com/REACH-WoU/utilityR" id="5ZZzninA21lW4IOuCeZm-25">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+            <mxGeometry x="410" y="400" width="180" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="5ZZzninA21lW4IOuCeZm-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5ZZzninA21lW4IOuCeZm-27" target="5ZZzninA21lW4IOuCeZm-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5ZZzninA21lW4IOuCeZm-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5ZZzninA21lW4IOuCeZm-27" target="5ZZzninA21lW4IOuCeZm-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5ZZzninA21lW4IOuCeZm-27" value="Data analysis / Dashboard development" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="480" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5ZZzninA21lW4IOuCeZm-34" value="Research stage" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5ZZzninA21lW4IOuCeZm-35" value="Recommended tool" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5ZZzninA21lW4IOuCeZm-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="5ZZzninA21lW4IOuCeZm-37" target="5ZZzninA21lW4IOuCeZm-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5ZZzninA21lW4IOuCeZm-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5ZZzninA21lW4IOuCeZm-37" target="5ZZzninA21lW4IOuCeZm-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5ZZzninA21lW4IOuCeZm-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="5ZZzninA21lW4IOuCeZm-37" target="5ZZzninA21lW4IOuCeZm-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5ZZzninA21lW4IOuCeZm-37" value="Development of the sampling frame" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="130" width="180" height="30" as="geometry" />
+        </mxCell>
+        <UserObject label="Universal data collection tracker&amp;nbsp;" link="https://github.com/REACH-WoU/tracker_template" id="5ZZzninA21lW4IOuCeZm-43">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+            <mxGeometry x="410" y="320" width="180" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="5ZZzninA21lW4IOuCeZm-45" value="Comment about the tool" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="641" width="180" height="30" as="geometry" />
+        </mxCell>
+        <UserObject label="Tabular analysis V4" link="https://github.com/REACH-WoU/tabular_analysis_boilerplate_v4" id="5ZZzninA21lW4IOuCeZm-47">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+            <mxGeometry x="410" y="480" width="180" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="5ZZzninA21lW4IOuCeZm-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5ZZzninA21lW4IOuCeZm-50" target="5ZZzninA21lW4IOuCeZm-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5ZZzninA21lW4IOuCeZm-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5ZZzninA21lW4IOuCeZm-50" target="5ZZzninA21lW4IOuCeZm-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5ZZzninA21lW4IOuCeZm-50" value="Questionnaire storage" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="560" width="180" height="30" as="geometry" />
+        </mxCell>
+        <UserObject label="Reach QDB" link="https://github.com/REACH-WoU/Reach_QDB" id="5ZZzninA21lW4IOuCeZm-51">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+            <mxGeometry x="410" y="560" width="180" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="5ZZzninA21lW4IOuCeZm-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5ZZzninA21lW4IOuCeZm-54" target="5ZZzninA21lW4IOuCeZm-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5ZZzninA21lW4IOuCeZm-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5ZZzninA21lW4IOuCeZm-54" target="5ZZzninA21lW4IOuCeZm-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5ZZzninA21lW4IOuCeZm-54" value="Data storage" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="640" width="180" height="30" as="geometry" />
+        </mxCell>
+        <UserObject label="Data uploader" id="5ZZzninA21lW4IOuCeZm-55">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+            <mxGeometry x="410" y="640" width="180" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="5ZZzninA21lW4IOuCeZm-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5ZZzninA21lW4IOuCeZm-57" target="5ZZzninA21lW4IOuCeZm-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5ZZzninA21lW4IOuCeZm-57" value="PII storage" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="720" width="180" height="30" as="geometry" />
+        </mxCell>
+        <UserObject label="PII storage" id="5ZZzninA21lW4IOuCeZm-60">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+            <mxGeometry x="410" y="720" width="180" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
