@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-08T07:50:49.426Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="hqFXXSjkxSfEH-GH8whO" version="24.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-08T07:58:08.557Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="SK7rLZgKgCMiEank8do-" version="24.2.2" type="github">
   <diagram name="Page-1" id="CdamL6_mtSKDQ_Ty3OGJ">
     <mxGraphModel dx="1114" dy="593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -47,7 +47,7 @@
         <mxCell id="5ZZzninA21lW4IOuCeZm-12" value="Kobo development" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="390" y="330" width="180" height="30" as="geometry" />
         </mxCell>
-        <UserObject label="DAP to Kobo transformer" link="https://impact-initiatives.shinyapps.io/dap_generating/" id="5ZZzninA21lW4IOuCeZm-13">
+        <UserObject label="DAP to Kobo transformer" link="https://impact-initiatives.shinyapps.io/dap_generating/" tooltip="If the user has used the Universal DAP form to create their DAP file, this tool allows the user to create a baseline KOBO tool out of it. It can also be used to transform existing KOBO forms into DAP files filled in in the form of the Universal DAP file." id="5ZZzninA21lW4IOuCeZm-13">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
             <mxGeometry x="650" y="270" width="180" height="30" as="geometry" />
           </mxCell>
@@ -61,7 +61,7 @@
         <mxCell id="5ZZzninA21lW4IOuCeZm-19" value="Data collection" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="390" y="390" width="180" height="30" as="geometry" />
         </mxCell>
-        <UserObject label="Kobo checker" link="https://impact-initiatives.shinyapps.io/Kobo_checker/" id="5ZZzninA21lW4IOuCeZm-20">
+        <UserObject label="Kobo checker" link="https://impact-initiatives.shinyapps.io/Kobo_checker/" tooltip="The tool allows the user to check their KOBO form for common mistakes that can make it incompatible with the cleaning script.&#xa;It also allows the user to explore the interview flow within the KOBO form." id="5ZZzninA21lW4IOuCeZm-20">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
             <mxGeometry x="650" y="330" width="180" height="30" as="geometry" />
           </mxCell>
@@ -75,7 +75,7 @@
         <mxCell id="5ZZzninA21lW4IOuCeZm-23" value="Data cleaning" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="390" y="470" width="180" height="30" as="geometry" />
         </mxCell>
-        <UserObject label="Cleaning template" link="https://github.com/REACH-WoU/utilityR" id="5ZZzninA21lW4IOuCeZm-25">
+        <UserObject label="Cleaning template" link="https://github.com/REACH-WoU/utilityR" tooltip="A universal cleaning template that goes through the general process of cleaning KOBO interviews within Impact Ukraine. Based on UtilityR package." id="5ZZzninA21lW4IOuCeZm-25">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
             <mxGeometry x="650" y="470" width="180" height="30" as="geometry" />
           </mxCell>
@@ -107,12 +107,12 @@
         <mxCell id="5ZZzninA21lW4IOuCeZm-37" value="Development of the sampling frame" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="390" y="200" width="180" height="30" as="geometry" />
         </mxCell>
-        <UserObject label="Universal data collection tracker&amp;nbsp;" link="https://github.com/REACH-WoU/tracker_template" id="5ZZzninA21lW4IOuCeZm-43">
+        <UserObject label="Universal data collection tracker&amp;nbsp;" link="https://github.com/REACH-WoU/tracker_template" tooltip="The data collection tracker app on Shiny server. Allows the user to build interactive, live Shiny application that tracks the data collection process" id="5ZZzninA21lW4IOuCeZm-43">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
             <mxGeometry x="650" y="390" width="180" height="30" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="Tabular analysis V4" link="https://github.com/REACH-WoU/tabular_analysis_boilerplate_v4" id="5ZZzninA21lW4IOuCeZm-47">
+        <UserObject label="Tabular analysis V4" link="https://github.com/REACH-WoU/tabular_analysis_boilerplate_v4" tooltip="The tabular analysis boilerplate, that allows the user to quickly build frequency tables in Python. " id="5ZZzninA21lW4IOuCeZm-47">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
             <mxGeometry x="650" y="550" width="180" height="30" as="geometry" />
           </mxCell>
@@ -123,10 +123,10 @@
         <mxCell id="5ZZzninA21lW4IOuCeZm-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5ZZzninA21lW4IOuCeZm-50" target="5ZZzninA21lW4IOuCeZm-54" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5ZZzninA21lW4IOuCeZm-50" value="Questionnaire storage" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="5ZZzninA21lW4IOuCeZm-50" value="Questionnaire matching" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="390" y="630" width="180" height="30" as="geometry" />
         </mxCell>
-        <UserObject label="Reach QDB" link="https://github.com/REACH-WoU/Reach_QDB" id="5ZZzninA21lW4IOuCeZm-51">
+        <UserObject label="Reach QDB" link="https://github.com/REACH-WoU/Reach_QDB" tooltip="A Shiny app that allows the user to match the questions in their Kobo form to questions already present in the database. This allows us to understand if we&#39;ve asked a question across multiple research cycles and timeframes" id="5ZZzninA21lW4IOuCeZm-51">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
             <mxGeometry x="650" y="630" width="180" height="30" as="geometry" />
           </mxCell>
@@ -137,10 +137,10 @@
         <mxCell id="5ZZzninA21lW4IOuCeZm-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5ZZzninA21lW4IOuCeZm-54" target="5ZZzninA21lW4IOuCeZm-55" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5ZZzninA21lW4IOuCeZm-54" value="Data storage" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="5ZZzninA21lW4IOuCeZm-54" value="Data and questionnaire storage" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="390" y="710" width="180" height="30" as="geometry" />
         </mxCell>
-        <UserObject label="Data uploader" id="5ZZzninA21lW4IOuCeZm-55">
+        <UserObject label="Data uploader" tooltip="Under development" id="5ZZzninA21lW4IOuCeZm-55">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
             <mxGeometry x="650" y="710" width="180" height="30" as="geometry" />
           </mxCell>
@@ -151,7 +151,7 @@
         <mxCell id="5ZZzninA21lW4IOuCeZm-57" value="PII storage" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="390" y="790" width="180" height="30" as="geometry" />
         </mxCell>
-        <UserObject label="PII storage" id="5ZZzninA21lW4IOuCeZm-60">
+        <UserObject label="PII storage" tooltip="Under development" id="5ZZzninA21lW4IOuCeZm-60">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
             <mxGeometry x="650" y="790" width="180" height="30" as="geometry" />
           </mxCell>
