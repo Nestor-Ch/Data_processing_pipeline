@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-08T07:28:15.636Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="FON-eHiv9SsouNcGsHkg" version="24.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-08T07:28:43.246Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="dmaKN_aTBcZ6z-VfoZqn" version="24.2.2" type="github">
   <diagram name="Page-1" id="CdamL6_mtSKDQ_Ty3OGJ">
     <mxGraphModel dx="936" dy="511" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -112,9 +112,6 @@
             <mxGeometry x="410" y="320" width="180" height="30" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="5ZZzninA21lW4IOuCeZm-45" value="Comment about the tool" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="641" width="180" height="30" as="geometry" />
-        </mxCell>
         <UserObject label="Tabular analysis V4" link="https://github.com/REACH-WoU/tabular_analysis_boilerplate_v4" id="5ZZzninA21lW4IOuCeZm-47">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
             <mxGeometry x="410" y="480" width="180" height="30" as="geometry" />
