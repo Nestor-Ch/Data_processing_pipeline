@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2024-06-07T10:28:35.168Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="kK_Cd4gmIy46b0Gfn4G-" version="24.4.15" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-07T10:31:42.295Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="xnV4zb6RO02nxi-fYKqH" version="24.4.15" type="github">
   <diagram name="Page-1" id="CdamL6_mtSKDQ_Ty3OGJ">
     <mxGraphModel dx="1114" dy="593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="rfDyb57G6SXDkPlzruz_-30" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="380" y="106" width="210" height="754" as="geometry" />
+        </mxCell>
         <mxCell id="5ZZzninA21lW4IOuCeZm-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="5ZZzninA21lW4IOuCeZm-1" target="5ZZzninA21lW4IOuCeZm-37" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -89,8 +92,8 @@
         <mxCell id="5ZZzninA21lW4IOuCeZm-27" value="Data analysis / Dashboard development" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="390" y="550" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="5ZZzninA21lW4IOuCeZm-34" value="Research stage" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="390" y="70" width="180" height="30" as="geometry" />
+        <mxCell id="5ZZzninA21lW4IOuCeZm-34" value="Research stage tools" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="395" y="70" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5ZZzninA21lW4IOuCeZm-35" value="Recommended tool" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="650" y="70" width="180" height="30" as="geometry" />
@@ -163,7 +166,7 @@
           <mxGeometry x="20" y="70" width="180" height="340" as="geometry" />
         </mxCell>
         <mxCell id="rfDyb57G6SXDkPlzruz_-1" value="Tasks" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="890" y="70" width="180" height="30" as="geometry" />
+          <mxGeometry x="905" y="70" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rfDyb57G6SXDkPlzruz_-3" value="Assessment tool" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFCCE6;strokeColor=#CC0066;" vertex="1" parent="1">
           <mxGeometry x="250" y="230" width="110" height="30" as="geometry" />
@@ -246,6 +249,9 @@
         </mxCell>
         <mxCell id="rfDyb57G6SXDkPlzruz_-29" value="Other dept. task" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="1130" y="280" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rfDyb57G6SXDkPlzruz_-31" value="Data exploration and support tools" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="390" y="880" width="180" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
