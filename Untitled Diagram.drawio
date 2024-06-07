@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-07T10:52:38.038Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="n_Cu1JuaQ0A46hZR9LBy" version="24.4.15" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-07T10:56:19.287Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="DAzll3XOmxXZVLF6uQuZ" version="24.4.15" type="github">
   <diagram name="Page-1" id="CdamL6_mtSKDQ_Ty3OGJ">
     <mxGraphModel dx="1975" dy="983" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -245,10 +245,10 @@
           <mxGeometry x="1090" y="851" width="230" height="50" as="geometry" />
         </mxCell>
         <mxCell id="rfDyb57G6SXDkPlzruz_-28" value="Other dept. tool" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="395" y="270" width="110" height="30" as="geometry" />
+          <mxGeometry x="395" y="330" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rfDyb57G6SXDkPlzruz_-29" value="Other dept. task" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="1340" y="270" width="110" height="30" as="geometry" />
+          <mxGeometry x="1340" y="320" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rfDyb57G6SXDkPlzruz_-31" value="Data exploration and support tools" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="200" y="720" width="180" height="40" as="geometry" />
@@ -312,6 +312,12 @@
         </mxCell>
         <mxCell id="rfDyb57G6SXDkPlzruz_-54" value="Translation officers translate the kobo tool" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="1090" y="380" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rfDyb57G6SXDkPlzruz_-57" value="Assessment/data task" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFCCE6;strokeColor=#CC0066;gradientColor=#99CCFF;" vertex="1" parent="1">
+          <mxGeometry x="1340" y="270" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rfDyb57G6SXDkPlzruz_-58" value="Assessment/data tool" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFCCE6;strokeColor=#CC0066;gradientColor=#99CCFF;" vertex="1" parent="1">
+          <mxGeometry x="395" y="270" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
