@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-07-02T06:46:19.766Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="1isGs2ywfxw1w_NGlbxP" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-04T08:30:15.884Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="mQ_1nQc9WmGNex8U76Qy" version="24.6.4" type="github">
   <diagram name="Page-1" id="CdamL6_mtSKDQ_Ty3OGJ">
-    <mxGraphModel dx="1092" dy="543" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2074" dy="1032" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -64,8 +64,8 @@
         <mxCell id="5ZZzninA21lW4IOuCeZm-19" value="Data collection" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="605" y="403" width="180" height="30" as="geometry" />
         </mxCell>
-        <UserObject label="Kobo checker" link="https://impact-initiatives.shinyapps.io/Kobo_checker/" tooltip="The tool allows the user to check their KOBO form for common mistakes that can make it incompatible with the cleaning script.&#xa;It also allows the user to explore the interview flow within the KOBO form." id="5ZZzninA21lW4IOuCeZm-20">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <UserObject label="Kobo checker" link="https://impact-initiatives.shinyapps.io/Kobo_checker/" tooltip="The tool allows the user to check their KOBO form for common mistakes that can make it incompatible with the cleaning script.&#xa;It also allows the user (AO) to explore the interview flow within the KOBO form.&#xa;&#xa;" id="5ZZzninA21lW4IOuCeZm-20">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#ffcce6;" parent="1" vertex="1">
             <mxGeometry x="865" y="283" width="180" height="30" as="geometry" />
           </mxCell>
         </UserObject>
@@ -267,7 +267,7 @@
         <mxCell id="rfDyb57G6SXDkPlzruz_-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="rfDyb57G6SXDkPlzruz_-33" target="rfDyb57G6SXDkPlzruz_-40" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3-6lHHF55DGYkitSiJUH-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rfDyb57G6SXDkPlzruz_-33" target="3-6lHHF55DGYkitSiJUH-1">
+        <mxCell id="3-6lHHF55DGYkitSiJUH-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="rfDyb57G6SXDkPlzruz_-33" target="3-6lHHF55DGYkitSiJUH-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rfDyb57G6SXDkPlzruz_-33" value="Independent data exploration" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -329,7 +329,7 @@
           <mxGeometry x="400" y="233" width="110" height="40" as="geometry" />
         </mxCell>
         <UserObject label="Reach data browser" tooltip="The tool that allows the user to browse all data within the REACH questionnaire database and builds interactive graphs based on user&#39;s request" link="https://impact-initiatives.shinyapps.io/Reach_DB_browser/" id="3-6lHHF55DGYkitSiJUH-1">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFCCE6;strokeColor=#CC0066;" vertex="1" parent="1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFCCE6;strokeColor=#CC0066;" parent="1" vertex="1">
             <mxGeometry x="340" y="894" width="180" height="30" as="geometry" />
           </mxCell>
         </UserObject>
