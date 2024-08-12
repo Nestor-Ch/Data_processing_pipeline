@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="rfDyb57G6SXDkPlzruz_-56" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="70" y="752" width="480" height="235" as="geometry" />
+          <mxGeometry x="70" y="696" width="480" height="235" as="geometry" />
         </mxCell>
         <mxCell id="5ZZzninA21lW4IOuCeZm-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="5ZZzninA21lW4IOuCeZm-1" target="5ZZzninA21lW4IOuCeZm-37" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -262,11 +262,11 @@
           <mxGeometry x="1345" y="283" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rfDyb57G6SXDkPlzruz_-31" value="Data exploration and support tools" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="220" y="708" width="180" height="40" as="geometry" />
+          <mxGeometry x="220" y="652" width="180" height="40" as="geometry" />
         </mxCell>
         <UserObject label="Tabular analysis explorer" tooltip="The tool that allows the user to explore that frequency tables in their data by themselves" link="https://impact-initiatives.shinyapps.io/tabular_APP/" id="rfDyb57G6SXDkPlzruz_-32">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFCCE6;strokeColor=#CC0066;" parent="1" vertex="1">
-            <mxGeometry x="340" y="832" width="180" height="30" as="geometry" />
+            <mxGeometry x="340" y="776" width="180" height="30" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="rfDyb57G6SXDkPlzruz_-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="rfDyb57G6SXDkPlzruz_-33" target="rfDyb57G6SXDkPlzruz_-32" edge="1">
@@ -279,22 +279,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rfDyb57G6SXDkPlzruz_-33" value="Independent data exploration" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="80" y="882" width="180" height="30" as="geometry" />
+          <mxGeometry x="80" y="826" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rfDyb57G6SXDkPlzruz_-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="rfDyb57G6SXDkPlzruz_-35" target="rfDyb57G6SXDkPlzruz_-36" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rfDyb57G6SXDkPlzruz_-35" value="Cross-project question exploration" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="80" y="772" width="180" height="40" as="geometry" />
+          <mxGeometry x="80" y="716" width="180" height="40" as="geometry" />
         </mxCell>
         <UserObject label="Reach QDB browser" tooltip="The tool that allows the user to browse all questions within the REACH questionnaire database" link="https://impact-initiatives.shinyapps.io/QDB_browser/" id="rfDyb57G6SXDkPlzruz_-36">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFCCE6;strokeColor=#CC0066;" parent="1" vertex="1">
-            <mxGeometry x="340" y="777" width="180" height="30" as="geometry" />
+            <mxGeometry x="340" y="721" width="180" height="30" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Data downloader" tooltip="The tool that allows the user to browse all questions within the REACH questionnaire database" link="https://impact-initiatives.shinyapps.io/data_uploader_python/" id="rfDyb57G6SXDkPlzruz_-40">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFCCE6;strokeColor=#CC0066;" parent="1" vertex="1">
-            <mxGeometry x="340" y="882" width="180" height="30" as="geometry" />
+            <mxGeometry x="340" y="826" width="180" height="30" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Qualitative analysis AI tool" tooltip="Currently searching for a Budget line to buy the licenses needed to run and deploy the tool" link="https://impact-initiatives.shinyapps.io/qualitative_analysis_app/" id="rfDyb57G6SXDkPlzruz_-43">
@@ -338,7 +338,7 @@
         </mxCell>
         <UserObject label="Reach data browser" tooltip="The tool that allows the user to browse all data within the REACH questionnaire database and builds interactive graphs based on user&#39;s request" link="https://impact-initiatives.shinyapps.io/Reach_DB_browser/" id="3-6lHHF55DGYkitSiJUH-1">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFCCE6;strokeColor=#CC0066;" parent="1" vertex="1">
-            <mxGeometry x="340" y="931" width="180" height="30" as="geometry" />
+            <mxGeometry x="340" y="875" width="180" height="30" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="DAF Processor" link="https://impact-initiatives.shinyapps.io/daf_processor/" tooltip="The tabular analysis boilerplate, that allows the user to quickly build frequency tables in Python. " id="rPboNxXYU_07YMQcynuG-2">
