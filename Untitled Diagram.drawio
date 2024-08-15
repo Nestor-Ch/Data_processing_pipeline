@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="rfDyb57G6SXDkPlzruz_-56" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="70" y="696" width="480" height="235" as="geometry" />
+          <mxGeometry x="70" y="739" width="480" height="235" as="geometry" />
         </mxCell>
         <mxCell id="5ZZzninA21lW4IOuCeZm-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="5ZZzninA21lW4IOuCeZm-1" target="5ZZzninA21lW4IOuCeZm-37" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -78,6 +78,9 @@
         <mxCell id="5ZZzninA21lW4IOuCeZm-23" value="Data cleaning" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="605" y="474" width="180" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="UBhdGPGyBZChStpctvhj-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5ZZzninA21lW4IOuCeZm-25" target="UBhdGPGyBZChStpctvhj-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <UserObject label="Cleaning template" link="https://github.com/REACH-WoU/utilityR" tooltip="A universal cleaning template that goes through the general process of cleaning KOBO interviews within Impact Ukraine. Based on UtilityR package." id="5ZZzninA21lW4IOuCeZm-25">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
             <mxGeometry x="865" y="474" width="180" height="30" as="geometry" />
@@ -96,7 +99,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5ZZzninA21lW4IOuCeZm-27" value="Data analysis / Dashboard development" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="605" y="605" width="180" height="30" as="geometry" />
+          <mxGeometry x="605" y="648" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5ZZzninA21lW4IOuCeZm-34" value="Research stage tools" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="610" y="23" width="180" height="30" as="geometry" />
@@ -123,7 +126,7 @@
         </UserObject>
         <UserObject label="Tabular analysis V4" link="https://github.com/REACH-WoU/tabular_analysis_boilerplate_v4" tooltip="The tabular analysis boilerplate, that allows the user to quickly build frequency tables in Python. " id="5ZZzninA21lW4IOuCeZm-47">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-            <mxGeometry x="865" y="539" width="180" height="30" as="geometry" />
+            <mxGeometry x="865" y="582" width="180" height="30" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="5ZZzninA21lW4IOuCeZm-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="5ZZzninA21lW4IOuCeZm-50" target="5ZZzninA21lW4IOuCeZm-51" edge="1">
@@ -133,11 +136,11 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5ZZzninA21lW4IOuCeZm-50" value="Questionnaire matching" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="605" y="741" width="180" height="30" as="geometry" />
+          <mxGeometry x="605" y="784" width="180" height="30" as="geometry" />
         </mxCell>
         <UserObject label="Reach QDB" link="https://impact-initiatives.shinyapps.io/Reach_QDB/" tooltip="A Shiny app that allows the user to match the questions in their Kobo form to questions already present in the database. This allows us to understand if we&#39;ve asked a question across multiple research cycles and timeframes" id="5ZZzninA21lW4IOuCeZm-51">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-            <mxGeometry x="865" y="741" width="180" height="30" as="geometry" />
+            <mxGeometry x="865" y="784" width="180" height="30" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="5ZZzninA21lW4IOuCeZm-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5ZZzninA21lW4IOuCeZm-54" target="5ZZzninA21lW4IOuCeZm-57" edge="1">
@@ -147,22 +150,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5ZZzninA21lW4IOuCeZm-54" value="Data and questionnaire storage" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="605" y="821" width="180" height="30" as="geometry" />
+          <mxGeometry x="605" y="864" width="180" height="30" as="geometry" />
         </mxCell>
         <UserObject label="Data uploader" tooltip="Tool used to upload clean datasets into the REACH_DB" link="https://impact-initiatives.shinyapps.io/data_uploader_python/" id="5ZZzninA21lW4IOuCeZm-55">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-            <mxGeometry x="865" y="821" width="180" height="30" as="geometry" />
+            <mxGeometry x="865" y="864" width="180" height="30" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="5ZZzninA21lW4IOuCeZm-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5ZZzninA21lW4IOuCeZm-57" target="5ZZzninA21lW4IOuCeZm-60" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5ZZzninA21lW4IOuCeZm-57" value="PII storage" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="605" y="901" width="180" height="30" as="geometry" />
+          <mxGeometry x="605" y="944" width="180" height="30" as="geometry" />
         </mxCell>
         <UserObject label="PII storage" tooltip="The tool used to upload PII into the database" link="https://impact-initiatives.shinyapps.io/data_uploader_python/" id="5ZZzninA21lW4IOuCeZm-60">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-            <mxGeometry x="865" y="901" width="180" height="30" as="geometry" />
+            <mxGeometry x="865" y="944" width="180" height="30" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="jXckjUTRDvluykvVXxvT-2" value="&lt;b&gt;Types of tools/tasks&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;strokeColor=#d6b656;fillColor=#fff2cc;" parent="1" vertex="1">
@@ -217,18 +220,18 @@
         </mxCell>
         <mxCell id="rPboNxXYU_07YMQcynuG-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="rfDyb57G6SXDkPlzruz_-20" target="rPboNxXYU_07YMQcynuG-2" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1050" y="620" as="targetPoint" />
+            <mxPoint x="1050" y="663" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="rfDyb57G6SXDkPlzruz_-20" value="The assessment team creates a DAF form outlining the needed analyses and the data team uses the boilerplate to produce the frequency tables" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFCCE6;strokeColor=#CC0066;gradientColor=#D4E1F5;" parent="1" vertex="1">
-          <mxGeometry x="1095" y="552" width="230" height="70" as="geometry" />
+          <mxGeometry x="1095" y="595" width="230" height="70" as="geometry" />
         </mxCell>
         <mxCell id="rfDyb57G6SXDkPlzruz_-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="rfDyb57G6SXDkPlzruz_-22" target="5ZZzninA21lW4IOuCeZm-51" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="After the tool has been finalized, the assessment team upload it to the questionnaire database" tooltip="" id="rfDyb57G6SXDkPlzruz_-22">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFCCE6;strokeColor=#CC0066;" parent="1" vertex="1">
-            <mxGeometry x="1095" y="731" width="230" height="50" as="geometry" />
+            <mxGeometry x="1095" y="774" width="230" height="50" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="rfDyb57G6SXDkPlzruz_-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="rfDyb57G6SXDkPlzruz_-24" target="5ZZzninA21lW4IOuCeZm-55" edge="1">
@@ -238,17 +241,17 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rfDyb57G6SXDkPlzruz_-24" value="After the data has been cleaned and validated, the data team uploads the clean data and PII dataframe into the database" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#D4E1F5;" parent="1" vertex="1">
-          <mxGeometry x="1095" y="851" width="230" height="50" as="geometry" />
+          <mxGeometry x="1095" y="894" width="230" height="50" as="geometry" />
         </mxCell>
         <mxCell id="rfDyb57G6SXDkPlzruz_-28" value="Other dept. tool&lt;b&gt;/tasks&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="400" y="293" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rfDyb57G6SXDkPlzruz_-31" value="Data exploration and support tools" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="220" y="652" width="180" height="40" as="geometry" />
+          <mxGeometry x="220" y="695" width="180" height="40" as="geometry" />
         </mxCell>
         <UserObject label="Tabular analysis explorer" tooltip="The tool that allows the user to explore that frequency tables in their data by themselves" link="https://impact-initiatives.shinyapps.io/tabular_APP/" id="rfDyb57G6SXDkPlzruz_-32">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFCCE6;strokeColor=#CC0066;" parent="1" vertex="1">
-            <mxGeometry x="340" y="776" width="180" height="30" as="geometry" />
+            <mxGeometry x="340" y="819" width="180" height="30" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="rfDyb57G6SXDkPlzruz_-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="rfDyb57G6SXDkPlzruz_-33" target="rfDyb57G6SXDkPlzruz_-32" edge="1">
@@ -261,27 +264,27 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rfDyb57G6SXDkPlzruz_-33" value="Independent data exploration" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="80" y="826" width="180" height="30" as="geometry" />
+          <mxGeometry x="80" y="869" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rfDyb57G6SXDkPlzruz_-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="rfDyb57G6SXDkPlzruz_-35" target="rfDyb57G6SXDkPlzruz_-36" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rfDyb57G6SXDkPlzruz_-35" value="Cross-project question exploration" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="80" y="716" width="180" height="40" as="geometry" />
+          <mxGeometry x="80" y="759" width="180" height="40" as="geometry" />
         </mxCell>
         <UserObject label="Reach QDB browser" tooltip="The tool that allows the user to browse all questions within the REACH questionnaire database" link="https://impact-initiatives.shinyapps.io/QDB_browser/" id="rfDyb57G6SXDkPlzruz_-36">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFCCE6;strokeColor=#CC0066;" parent="1" vertex="1">
-            <mxGeometry x="340" y="721" width="180" height="30" as="geometry" />
+            <mxGeometry x="340" y="764" width="180" height="30" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Data downloader" tooltip="The tool that allows the user to browse all questions within the REACH questionnaire database" link="https://impact-initiatives.shinyapps.io/data_uploader_python/" id="rfDyb57G6SXDkPlzruz_-40">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFCCE6;strokeColor=#CC0066;" parent="1" vertex="1">
-            <mxGeometry x="340" y="826" width="180" height="30" as="geometry" />
+            <mxGeometry x="340" y="869" width="180" height="30" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Qualitative analysis AI tool" tooltip="Currently searching for a Budget line to buy the licenses needed to run and deploy the tool" link="https://impact-initiatives.shinyapps.io/qualitative_analysis_app/" id="rfDyb57G6SXDkPlzruz_-43">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFCCE6;strokeColor=#CC0066;" parent="1" vertex="1">
-            <mxGeometry x="865" y="668" width="180" height="30" as="geometry" />
+            <mxGeometry x="865" y="711" width="180" height="30" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="rfDyb57G6SXDkPlzruz_-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="rfDyb57G6SXDkPlzruz_-46" target="rfDyb57G6SXDkPlzruz_-43" edge="1">
@@ -289,7 +292,7 @@
         </mxCell>
         <UserObject label="For qualitative assessments, the assessment team may use this tool to semi-automate qualitative analysis" tooltip="" id="rfDyb57G6SXDkPlzruz_-46">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFCCE6;strokeColor=#CC0066;" parent="1" vertex="1">
-            <mxGeometry x="1095" y="658" width="230" height="50" as="geometry" />
+            <mxGeometry x="1095" y="701" width="230" height="50" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="rfDyb57G6SXDkPlzruz_-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="rfDyb57G6SXDkPlzruz_-51" target="rfDyb57G6SXDkPlzruz_-52" edge="1">
@@ -317,12 +320,17 @@
         </mxCell>
         <UserObject label="Reach data browser" tooltip="The tool that allows the user to browse all data within the REACH questionnaire database and builds interactive graphs based on user&#39;s request" link="https://impact-initiatives.shinyapps.io/Reach_DB_browser/" id="3-6lHHF55DGYkitSiJUH-1">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFCCE6;strokeColor=#CC0066;" parent="1" vertex="1">
-            <mxGeometry x="340" y="875" width="180" height="30" as="geometry" />
+            <mxGeometry x="340" y="918" width="180" height="30" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="DAF Processor" link="https://impact-initiatives.shinyapps.io/daf_processor/" tooltip="The tabular analysis boilerplate, that allows the user to quickly build frequency tables in Python. " id="rPboNxXYU_07YMQcynuG-2">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-            <mxGeometry x="865" y="605" width="180" height="30" as="geometry" />
+            <mxGeometry x="865" y="648" width="180" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Other decoder" link="https://impact-initiatives.shinyapps.io/other_decoding/" tooltip="Semi-automatically recode other answers for repeating research cycles" id="UBhdGPGyBZChStpctvhj-1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+            <mxGeometry x="865" y="529" width="180" height="30" as="geometry" />
           </mxCell>
         </UserObject>
       </root>
